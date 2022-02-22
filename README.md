@@ -18,4 +18,4 @@ This is the [notebook](https://github.com/EIN1972/technical-discussion/blob/3b5f
 
 ### images
 
-"Screen Shot 2022-02-22 at 5 47 12 AM" src="https://user-images.githubusercontent.com/100175732/155064856-721fee95-5594-478d-87d1-599cd82eb399.png">
+![Screen Shot 2022-02-22 at 5 47 12 AM](https://user-images.githubusercontent.com/100175732/155064856-721fee95-5594-478d-87d1-599cd82eb399.png)
